@@ -1,4 +1,5 @@
 # Практика HTML-верстки
 
-Простой одностраничный сайт
+Одностраничный лендинг
+
 [Посмотрите сами](https://romankukushkinru.github.io/HTML-practicing/)
